@@ -2,4 +2,8 @@ hello this is a sample file
 
 hello, now i am making changes to this file
 
+<<<<<<< HEAD
 yo! making even more updates to this file on master!
+=======
+making changes now in the dev folder
+
